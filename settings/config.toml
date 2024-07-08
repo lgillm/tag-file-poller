@@ -1,0 +1,3 @@
+port = 5003
+poll_locations = ["C:\\Users\\Luke.gillmore\\PycharmProjects\\fast-file-processing\\test"]
+poll_rate = 60 #seconds

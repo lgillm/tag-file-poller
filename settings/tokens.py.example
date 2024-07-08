@@ -1,0 +1,5 @@
+class DbTokens:
+    USERNAME = "postgres"
+    PASSWORD = ""
+    HOSTNAME = ""
+    CONNECTION_DB = "postgres"
